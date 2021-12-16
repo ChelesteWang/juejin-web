@@ -8,6 +8,7 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
+    "@vueuse/core": "^7.3.0",
     "normalize.css": "^8.0.1",
     "pinia": "^2.0.6",
     "sass": "^1.45.0",
